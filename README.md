@@ -1,4 +1,4 @@
-# SimpleSpringCloud
+# SimpleSpringCloud 记录自己的学习过程
 ## 创建服务注册中心
 ### 创建一个maven主工程
 ```xml
