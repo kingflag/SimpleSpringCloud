@@ -231,5 +231,5 @@ eureka:
 ```
 
  两个服务都启动后，访问 
- ```http://localhost:8762/hi?name=forezp```
+ ```http://localhost:8762/hi?name=kingflag```
  
